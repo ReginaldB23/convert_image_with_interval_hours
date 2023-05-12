@@ -1,0 +1,16 @@
+{
+    "source": [
+      "SuiteView"
+    ],
+    "detail-type": [
+      "compile_images_based_on_specific_hour_interval"
+    ],
+    "detail": {
+      "allowed_cameras": [
+        88
+      ],
+      "hours_interval": [
+        6
+      ]
+    }
+  }
